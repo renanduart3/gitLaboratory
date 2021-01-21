@@ -1,2 +1,6 @@
 # gitLaboratory
-git tests
+Git Test Repository
+
+## Scenario
+
+Merge and conflict commits
